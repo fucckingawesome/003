@@ -9,5 +9,5 @@ links will be shown below
 
 
 - This one has more information that brings its use  
-[link preview 3](https://fucckingawesome.github.io/003/linkpreview3v2.html)
+[link preview 3](https://fucckingawesome.github.io/003/linkpreview3v2.html)  
 ![alt text](index.png)
